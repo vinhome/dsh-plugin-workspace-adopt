@@ -1,0 +1,4 @@
+# dsh-plugin-workspace-adopt bundle patch: inserts the workspace-adopt plugin row.
+- insert:
+    - id: workspace-adopt
+      name: 'dsh-plugin-workspace-adopt'
